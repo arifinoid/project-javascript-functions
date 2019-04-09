@@ -1,0 +1,10 @@
+h1,
+input {
+  margin: 50px auto;
+}
+
+body {
+  background-image: url(/image/minimalist-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
